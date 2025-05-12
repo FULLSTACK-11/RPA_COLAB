@@ -1,0 +1,19 @@
+{
+    "usuario": "it@servimax",
+    "contraseña": "Servimax2025!",
+    "convertapi_secret": "secret_T9CcLRSNHTrfjSAR",
+    "driver_mapping": {
+        "109": [10510, 10513],
+        "105": [10518, 10517],
+        "101": [10511, 10512],
+        "104": [10507, 10509],
+        "120": [10503, 10516],
+        "106": [10514, 10520],
+        "108": [10508, 10504],
+        "121": [10501, 10506],
+        "115": [10515, 10519],
+        "103": [10502, 10505]
+    },
+    "download_path": "/content/Compilados",
+    "api_url": "https://servimaxinternal.app/etlnodeapp/driverApp/extractBillsCopilatesFromCsv"
+}
